@@ -20,7 +20,7 @@ def return_a_value
 end
 
 def last_evaluated_value
-  first_value = "Ruby"
+  first_value = "expert"
   puts first_value.reverse
   first_value
 end
